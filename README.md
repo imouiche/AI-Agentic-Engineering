@@ -9,5 +9,7 @@
 - Project 7: Agent Creator—an Agent that builds and launches new Agents using AutoGen, unlocking endless AI possibilities!
 - Project 8: Capstone—build a Trading Floor with 4 Agents making autonomous trades, powered by 6 MCP servers and 44 tools!
 
-
        <img width="646" height="602" alt="Image" src="https://github.com/user-attachments/assets/adf253f0-6c33-4506-9d13-3e166dfa4367" />
+
+
+       
