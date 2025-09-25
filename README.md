@@ -10,4 +10,4 @@
 - Project 8: Capstone—build a Trading Floor with 4 Agents making autonomous trades, powered by 6 MCP servers and 44 tools!
 
 
-<img width="646" height="602" alt="Image" src="https://github.com/user-attachments/assets/adf253f0-6c33-4506-9d13-3e166dfa4367" />
+       <img width="646" height="602" alt="Image" src="https://github.com/user-attachments/assets/adf253f0-6c33-4506-9d13-3e166dfa4367" />
